@@ -45,11 +45,6 @@ When some of the cocktails are selected as favorites, the main screen should:
 
 ### Starter Project Setup & Cocktails API
 
-The first step is to clone the project (do not download zip) by performing this command in your terminal
-
-```bash
-git clone https://github.com/wios8/CocktailBook.git
-```
 
 Any changes you make to the code should be committed into the cloned local repository with appropriate commit messages.
 
